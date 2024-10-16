@@ -6,7 +6,7 @@ import { RiSecurePaymentFill } from "react-icons/ri";
 
 const Navbar = () => {
     return (
-        <div className="sticky z-10 w-100 top-0 left-0 shadow-md bg-gradient-to-r from-white to-[#eaeae9] shadow-gray-400 py-3 px-4 flex items-center justify-between text-2xl">
+        <div className="sticky z-50 w-100 top-0 left-0 shadow-md bg-gradient-to-r from-white to-[#eaeae9] shadow-gray-400 py-3 px-4 flex items-center justify-between text-2xl">
             <div className="w-30">
                 <span className="font-bold text-green-900 cursor-pointer">CREDIT APP</span>
             </div>
