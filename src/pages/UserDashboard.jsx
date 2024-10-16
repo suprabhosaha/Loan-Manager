@@ -90,7 +90,7 @@ const UserDashboard = () => {
                 <div className="w-[60%] min-h-[500px] mx-auto mb-10 bg-white rounded-lg">
                     <div className="flex items-center justify-center p-5">
                         <span className="mr-auto text-xl font-semibold">Applied Loans</span>
-                        <div className="ml-auto text-gray-300 flex gap-5 items-center justify-center">
+                        <div className="ml-auto text-gray-400 flex gap-5 items-center justify-center">
                             <div className="flex items-center justify-center gap-2 cursor-pointer">
                                 <FaSortAmountDown />
                                 <span>Sort</span>
