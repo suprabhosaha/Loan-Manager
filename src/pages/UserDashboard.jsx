@@ -64,7 +64,7 @@ const UserDashboard = () => {
     return (
         <div id="user-dashboard">
             <Navbar />
-            <div id="main-content" className="relative p-10">
+            <div id="main-content" className="relative p-10 top-14">
                 <div className="w-[40%] my-5 mx-auto h-20 text-green-900 flex items-center">
                     <div className="bg-[#6b9908] w-20 h-full flex items-center justify-center text-5xl text-green-900 font-bold">
                         <BsCash className="" />
